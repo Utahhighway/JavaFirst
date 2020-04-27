@@ -20,12 +20,12 @@ public class Main {
             employee.info();
         }
 
-        //      5. С помощью цикла вывести информацию только о сотрудниках старше 40 лет;
-        for (int i = 0; i < employees.length; i++) {
-            if (employees[i].getAge() > 40) {
-                employees[i].info();
-            }
-
-        }
+//        //      5. С помощью цикла вывести информацию только о сотрудниках старше 40 лет;
+//        for (int i = 0; i < employees.length; i++) {
+//            if (employees[i].getAge() > 40) {
+//                employees[i].info();
+  //          }
+//
+ //       }
     }
 }

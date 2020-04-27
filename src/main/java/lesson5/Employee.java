@@ -23,13 +23,15 @@ public class Employee {
         this.age=age;
     }
 
+    public void setAge() {
+
+    }
 
 
-     public void  info () {
+    public void  info () {
            System.out.printf("Employee, %s, %s, %s, %s, %d,%d. %n", fullName, duties, email, phoneNumber, salary, age);
 
         }
-
     }
 
 
